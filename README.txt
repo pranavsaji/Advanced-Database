@@ -1,17 +1,4 @@
-Group Members:
-
-    1.  Name : Pranit Gorakhnath Kotkar
-        Email : pkotkar1@hawk.iit.edu
-        CWID : A20512027
-
-    2.  Name : Pranav Saji
-        Email : psaji@hawk.iit.edu
-        CWID : A20518289
-
-    3.  Name : Kirthika Subramaniam B
-        Email : ksubramaniam@hawk.iit.edu
-        CWID : A20512536
-
+Academic Project
 
 Included Files:
 
